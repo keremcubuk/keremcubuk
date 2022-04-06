@@ -16,9 +16,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MacOS](https://img.shields.io/badge/Mac-05122A?style=flat&logo=apple)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows&logoColor=007ACC)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
-![IOS](https://img.shields.io/badge/-Android-05122A?style=flat&logo=ios)&nbsp;
+![IOS](https://img.shields.io/badge/iOS-05122A?style=flat&logo=apple)&nbsp;
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
